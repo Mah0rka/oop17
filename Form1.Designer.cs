@@ -91,9 +91,9 @@
             label3.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
             label3.Location = new Point(261, 57);
             label3.Name = "label3";
-            label3.Size = new Size(88, 30);
+            label3.Size = new Size(99, 30);
             label3.TabIndex = 4;
-            label3.Text = "Ведіть x";
+            label3.Text = "Введіть x";
             // 
             // label4
             // 
@@ -101,9 +101,9 @@
             label4.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
             label4.Location = new Point(12, 57);
             label4.Name = "label4";
-            label4.Size = new Size(88, 30);
+            label4.Size = new Size(99, 30);
             label4.TabIndex = 5;
-            label4.Text = "Ведіть x";
+            label4.Text = "Введіть x";
             // 
             // textBox_hyperbola
             // 
